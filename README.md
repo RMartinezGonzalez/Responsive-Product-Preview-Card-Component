@@ -1,6 +1,6 @@
 # Frontend Mentor - Product preview card component solution
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -24,13 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of my solution](./screenshot.jpg)
-
+![screenshot of my solution](screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/RMartinezGonzalez/Responsive-Product-Preview-Card-Component)
-- Live Site URL: [Add live site URL here](https://product-preview-card-component12.netlify.app/)
+- [Solution](https://github.com/kevin-powell/product-preview-card-component-main)
+- [Live version](https://jade-sprinkles-7fbebb.netlify.app/)
 
 ## My process
 
